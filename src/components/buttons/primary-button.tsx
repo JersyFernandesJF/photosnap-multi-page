@@ -24,3 +24,4 @@ const PrimaryButton = React.forwardRef<HTMLAnchorElement, Props>(
     );
   }
 );
+export default PrimaryButton
